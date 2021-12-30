@@ -1,0 +1,15 @@
+h1 { 
+	color : black ;
+	text-align: center; 
+	font-size: 50px;
+}
+
+.עבר {
+    direction: rtl;
+  }
+  
+ .כג {
+	font-size: 30px; 
+	direction: rtl; 
+	color: black
+ } 
